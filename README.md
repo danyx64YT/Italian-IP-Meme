@@ -11,6 +11,7 @@ Con Questa Repository Puoi Prendere L'IP Di Qualcuno In Modo (Divertente)
  Quelli Più Probabili Sono:
  - 127.0.0.1:8080
  - 127.0.0.1:8081
+
 La Porta Varia In Caso Che Una Delle 2 Sia Già In Uso, Te Lo Dice Nel Terminale.
 Nel Terminale Appariranno Gli IP Che Accedono Al Sito.
 Questo Sito è Accessibile Solo A Te Nella Tua Rete Locale Ammeno CHe Non Segui Gli Step Sotto.
