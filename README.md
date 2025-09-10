@@ -8,6 +8,7 @@ Con Questa Repository Puoi Prendere L'IP Di Qualcuno In Modo (Divertente)
  Nel Terminale Inserire "npm install http-server".
  Perfetto Se Non Ha Datto Errori (Cosa Che Probabilmente Non Fare) Basta Che Nello Stesso Terminale Digiti "http-server",
  Dovrebbe Darti Una Lista DI Ip La Maggior Parte Locali Da Cui Accedere Al Sito.
+   
    Quelli Più Probabili Sono:
     - 127.0.0.1:8080
     - 127.0.0.1:8081
